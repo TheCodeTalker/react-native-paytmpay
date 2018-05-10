@@ -1,6 +1,6 @@
 {
-  "name": "react-native-paytmPay",
-  "version": "1.0.9",
+  "name": "react-native-paytmpay",
+  "version": "1.0.0",
   "description": "A react native wrapper for PayTM",
   "main": "index.js",
   "repository": {
