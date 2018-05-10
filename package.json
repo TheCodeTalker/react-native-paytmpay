@@ -1,22 +1,32 @@
 {
-  "name": "react_native_paytmpay",
-  "version": "0.0.1",
-  "private": true,
+  "name": "react-native-paytmpay",
+  "version": "1.0.9",
+  "description": "A react native wrapper for PayTM",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodeTalker/react-native-paytmpay.git"
+  },
+  "_npmUser": {
+    "email": "tejashwi.1991@gmail.com",
+    "name": "tejashwikalptaru"
+  },
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "react": "16.3.1",
-    "react-native": "0.55.4"
+  "keywords": [
+    "react-native"
+  ],
+  "author": "chitaranjansahu",
+  "license": "ISC",
+  "peerDependencies": {
+    "react-native": "^0.53.0"
   },
-  "devDependencies": {
-    "babel-jest": "22.4.3",
-    "babel-preset-react-native": "4.0.0",
-    "jest": "22.4.3",
-    "react-test-renderer": "16.3.1"
+  "bugs": {
+    "url": "https://github.com/TheCodeTalker/react-native-paytmpay/issues"
   },
-  "jest": {
-    "preset": "react-native"
+  "homepage": "https://github.com/TheCodeTalker/react-native-paytmpay#readme",
+  "directories": {
+    "example": "example"
   }
 }
