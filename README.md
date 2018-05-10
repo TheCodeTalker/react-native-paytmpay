@@ -1,5 +1,5 @@
 
-# react-native-paytm
+# react-native-paytmpay
 This library has been forked from https://github.com/elanic-tech/react-native-paytm
 Updated it to work with the latest version of react-native and latest PayTM SDK. Improved the documentaion as well.
 
