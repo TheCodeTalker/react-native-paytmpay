@@ -1,5 +1,5 @@
 
-# react-native-paytmpay
+# react-native-paytmPay
 This library has been forked from https://github.com/elanic-tech/react-native-paytm
 Updated it to work with the latest version of react-native and latest PayTM SDK. Improved the documentaion as well.
 
@@ -11,20 +11,20 @@ Alert: Built and tested  for iOS and android.
 
 #### Android
 ````bash
-react-native link react-native-paytmpay
+react-native link react-native-paytmPay
 ````
 
 #### iOS
 
 1. In XCode, in the project navigator, right click `Libraries` ➜ `Add Files to [your project's name]`
-2. Go to `node_modules` ➜ `react-native-paytmpay` and add `RNPayTm.xcodeproj`
+2. Go to `node_modules` ➜ `react-native-paytmPay` and add `RNPayTm.xcodeproj`
 3. In XCode, in the project navigator, select your project. Add `libRNPayTm.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
 4. Run your project (`Cmd+R`)<
       
 
 ## Usage
 ```javascript
-import paytm from 'react-native-paytmpay';
+import paytm from 'react-native-paytmPay';
 import { ..., NativeEventEmitter, ... } from 'react-native';
 
 ....
